@@ -1,0 +1,717 @@
+{
+    "1": {
+        "message_name_string": "CABO CAT.6 LSZH",
+        "message_name_bytes": "4341424f204341542e36204c535a4800",
+        "content": "ANATEL 02837-10-03221 MPT CABO U/UTP LSZH CAT.6 4P X 23AWG ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "2": {
+        "message_name_string": "CABO U/UTP CAT5",
+        "message_name_bytes": "4341424f20552f555450204341543500",
+        "content": "M EX19D ANATEL 02212-07-03221 MPT CABO U/UTP LSZH CAT.5e 4P X 24AWG ANSI/TIA 568.2-D LOTE:"
+    },
+    "3": {
+        "message_name_string": "CABO F/UTP 2 CA",
+        "message_name_bytes": "4341424f20462f555450203220434100",
+        "content": "M EX19D ANATEL 03448-12-03221 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D LOTE:"
+    },
+    "4": {
+        "message_name_string": "CABO HIBRIDO F/",
+        "message_name_bytes": "4341424f204849425249444f20462f00",
+        "content": "ANATEL 02572-15-03221 MPT HIBRIDO CABO F/UTP CAT.5E 24AWG X 4P + 1P X 0,75MM ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "5": {
+        "message_name_string": "CBO F/UTP 1 CAP",
+        "message_name_bytes": "43424f20462f55545020312043415000",
+        "content": "ANATEL 03452-12-03221 MPT CABO F/UTP CM CAT.5E 24AWG X 4P ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "6": {
+        "message_name_string": "CABO CAT.5E 1 C",
+        "message_name_bytes": "4341424f204341542e35452031204300",
+        "content": "ANATEL 02212-07-03221 MPT CABO U/UTP CM CAT.5E 4P X 24AWG ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "7": {
+        "message_name_string": "CABO F/UTP CMX ",
+        "message_name_bytes": "4341424f20462f55545020434d582000",
+        "content": "ANATEL 03447-13-03221 MPT CABO F/UTP CMX 24AWG X 4P CAT.5E INT/EXT ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "8": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "ANATEL 05406-24-03221  MPT CABO F/UTP LSZH CAT.6A 23AWG X 4P ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "9": {
+        "message_name_string": "52-19459-900-VE",
+        "message_name_bytes": "35322d31393435392d3930302d564500",
+        "content": "M EX19D ANATEL 03448-12-03221 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA VETORIAL INFORMATICA O8OO - 701 - 1888 LOTE:"
+    },
+    "10": {
+        "message_name_string": "TESTE",
+        "message_name_bytes": "54455354450000000000000000000000",
+        "content": "ANATEL 05406 MPT CABO F/UTP LSZH CAT.6A 23AWG X 4P ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "11": {
+        "message_name_string": "CABO F/UTP CMX ",
+        "message_name_bytes": "4341424f20462f55545020434d582000",
+        "content": "M EX19D ANATEL 00491-22-03221  MPT CABO F/UTP CMX CAT.6 23AWG X 4P INT/EXT ANSI/TIA 568.2-D  LOTE:"
+    },
+    "12": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5E 24AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "13": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "M EX19D CONDUTTI-LANDUTTI ANATEL 09246-22-03221 CABO F/UTP CAT 6 23AWG X 4P DUPLA CAPA ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 MPT LOTE:"
+    },
+    "14": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "M EX19D ANATEL 09246-22-03221 MPT CABO F/UTP CAT.6 23AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D LOTE:"
+    },
+    "15": {
+        "message_name_string": "CABO U/UPT CAT.",
+        "message_name_bytes": "4341424f20552f555054204341542e00",
+        "content": "EX19D ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5E 24AWG X 4P AS DUPLA CAPA ANSI/TIA 568.2-D LOTE: M"
+    },
+    "16": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "ANATEL 03447-13-03221 MPT CABO F/UTP CM 24AWG X 4P CAT.5E INT/EXT ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "17": {
+        "message_name_string": "FUTP-CAT.6 CM",
+        "message_name_bytes": "465554502d4341542e3620434d000000",
+        "content": "M EX19D ANATEL 00491-22-03221 MPT CABO F/UTP CM CAT.6 23AWG X 4P INT/EXT ANSI/TIA 568.2-D LOTE:"
+    },
+    "18": {
+        "message_name_string": "CABO CAT.6 F/UT",
+        "message_name_bytes": "4341424f204341542e3620462f555400",
+        "content": "M ANATEL 00491-22-03221 MPT CABO F/UTP CMX CAT.6 23AWG X 4P INT/EXT ANSI/TIA 568.2-D LOTE: EX19D"
+    },
+    "19": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "M EX19D ANATEL 03794-17-03221 MPT CABO U/UTP CMX CAT.6 23AWG X 4P ANSI/TIA 568.2-D LOTE:"
+    },
+    "20": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "M ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5E 24AWG X 4P AS DUPLA CAPA ANSI/TIA 568.2-D LOTE: EX19D"
+    },
+    "21": {
+        "message_name_string": "CABO CAT.5E CMX",
+        "message_name_bytes": "4341424f204341542e354520434d5800",
+        "content": "ANATEL 02212-07-03221 MPT CABO U/UTP CMX CAT.5E 24AWG X 4P ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "22": {
+        "message_name_string": "U/UTP CAT.5E CM",
+        "message_name_bytes": "552f555450204341542e354520434d00",
+        "content": "M EX19D ANATEL 04762-15-03221 MPT CABO U/UTP CMX CAT.5E 24AWG X 4P INT/EXT ANSI/TIA 568.2-D LOTE:"
+    },
+    "23": {
+        "message_name_string": "FE-AA-PEAD-X SE",
+        "message_name_bytes": "46452d41412d504541442d5820534500",
+        "content": "MPT FIO FE-AA-80-PEAD-X SERCOMTEL LOTE: 33425/24 ANATEL 01920-23-15332 M"
+    },
+    "24": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "LANDUTTI Anatel 09747-22-14913 CABO F/UTP CMX INT/EXT CAT.6 23AWG X 4P ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1 MPT LOTE: EX19D M"
+    },
+    "25": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "EX19D LANDUTTI Anatel 09747-22-14913 CABO F/UTP CMX INT/EXT CAT.6 23AWG X 4P ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1 MPT LOTE: M"
+    },
+    "26": {
+        "message_name_string": "FIO FE -AA-PEAD",
+        "message_name_bytes": "46494f204645202d41412d5045414400",
+        "content": "M ANATEL 01920-23-15332 MPT FIO FE-AA-80-PEAD-X Oi LOTE: 33347/24"
+    },
+    "27": {
+        "message_name_string": "MEGATRON  F/UTP",
+        "message_name_bytes": "4d45474154524f4e2020462f55545000",
+        "content": "M M10042433226- LOTE: MEGATRON CABO LAN 4PX23AWG CAT6 F/UTP BL CM INTERNO TIA/EIA 568-B.2 ANATEL 11987-23-03983  1"
+    },
+    "28": {
+        "message_name_string": "CONDUTTI CAT6 D",
+        "message_name_bytes": "434f4e44555454492043415436204400",
+        "content": "M EX19D CONDUTTI-LANDUTTI ANATEL 09246-22-03221 CABO F/UTP CAT 6 23AWG X 4P DUPLA CAPA ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 MPT LOTE:"
+    },
+    "29": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "ANATEL 09738-22-14913 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D LOTE: EX19D IBIUNET M"
+    },
+    "30": {
+        "message_name_string": "MAXI CAT6 LSZH",
+        "message_name_bytes": "4d4158492043415436204c535a480000",
+        "content": "M EX19D  MPT LOTE: MAXI ANATEL 02837-10-03221 CABO U/UTP LSZH CAT.6 23AWG X 4P ANSI/TIA 568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1"
+    },
+    "31": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "MEGATRON CABO LAN 4PX24AWG CAT 5e U/UTP CMX INT-EXT TIA/EIA 568-B.2 ANATEL 01127-08-03983 LOTE: M M14032432787 - 1"
+    },
+    "32": {
+        "message_name_string": "UTP CAT.5E LAN-",
+        "message_name_bytes": "555450204341542e3545204c414e2d00",
+        "content": "ANATEL 02212-07-03221 LAN-K CABO U/UTP CMX CAT.5e 4P X 24AWG ANSI/TIA 568.2-D MPT LOTE: EX19D M"
+    },
+    "33": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "M EX19D ANATEL 00491-22-03221 MPT CABO F/UTP CM CAT.6 23AWG X 4P ANSI/TIA 568.2-D LOTE:"
+    },
+    "34": {
+        "message_name_string": "CABO F/UTP CAT.",
+        "message_name_bytes": "4341424f20462f555450204341542e00",
+        "content": "EX19D ANATEL 09737-22-14913 MPT CABO F/UTP CM CAT.5E 24AWG X 4P ANSI/TIA 568.2-D LOTE: M"
+    },
+    "35": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "MEGATRON CABO LAN 4PX24AWG CAT 5e U/UTP CM TIA/EIA 568-B.2 ANATEL 01127-08-03983 LOTE: M22122331197- 2 M"
+    },
+    "36": {
+        "message_name_string": "U/UTP CAT.5E CM",
+        "message_name_bytes": "552f555450204341542e354520434d00",
+        "content": "M ANATEL 09736-22-14913 MPT CABO U/UTP CM CAT.5E 24AWG X 4P INT/EXT ANSI/TIA 568.2-D LOTE: EX19D"
+    },
+    "37": {
+        "message_name_string": "CABO CAT.6A TES",
+        "message_name_bytes": "4341424f204341542e36412054455300",
+        "content": "M MPT CABO F/UTP LSZH CAT.6A 23AWG X 4P ANSI/TIA 568.2 D  LOTE: EX19 D036T2 05  FEV  2024"
+    },
+    "38": {
+        "message_name_string": "K2 TELECOM",
+        "message_name_bytes": "4b322054454c45434f4d000000000000",
+        "content": "M DC1D ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH K2 TELECOM  LOTE:"
+    },
+    "39": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "CONDUTTI-LANDUTTI ANATEL 09729-22-14913 CABO U/UTP CMX CAT 5E 24 AWG X 4 P MPT LOTE: EX19D TIA/EIA 568 - B2 PVC 70C M"
+    },
+    "40": {
+        "message_name_string": "U/UTP CAT.6 INT",
+        "message_name_bytes": "552f555450204341542e3620494e5400",
+        "content": "EX19D IG6CPR M ANATEL:13991-22-00160 INTELBRAS  CABO IMPACT GIGA UTP CAT6 4P 23 AWG PVC 70C CMX TIA/EIA 568-B.2 LOTE:"
+    },
+    "41": {
+        "message_name_string": "CABO CAT.6 CMX ",
+        "message_name_bytes": "4341424f204341542e3620434d582000",
+        "content": "M ANATEL 09746-22-14913 MPT CABO U/UTP CMX CAT.6 23AWG X 4P ANSI/TIA 568.2-D LOTE: EX19D"
+    },
+    "42": {
+        "message_name_string": "F/UTP CAT.5E UN",
+        "message_name_bytes": "462f555450204341542e354520554e00",
+        "content": "ANATEL 09738-22-14913 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D UNIFIQUE LOTE: EX19D M"
+    },
+    "43": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "IL5CPR M ANATEL:01414-19-00160 EX19D INTELBRAS IMPACT LAN UTP CAT5e 4P 24AWG PVC 70C CMX TIA/EIA 568- B.2 LOTE:"
+    },
+    "44": {
+        "message_name_string": "CABO U/UTP CAT5",
+        "message_name_bytes": "4341424f20552f555450204341543500",
+        "content": "ANATEL 09735-22-14913 MPT CABO U/UTP CAT.5E 24AWG X 4P DUPLA CAPA ANSI/TIA 568.2-D UNIFIQUE LOTE: EX19D M"
+    },
+    "45": {
+        "message_name_string": " CABO F/UTP CAT",
+        "message_name_bytes": "204341424f20462f5554502043415400",
+        "content": "M EX19D ANATEL 09747-22-14913 MPT CABO F/UTP CM CAT.6 23AWG X 4P INT/EXT ANSI/TIA 568.2-D LOTE:"
+    },
+    "46": {
+        "message_name_string": "CABO U/UTP CAT.",
+        "message_name_bytes": "4341424f20552f555450204341542e00",
+        "content": "ANATEL 09734-22-14913 MPT CABO U/UTP CM CAT.6 23 AWG/4P ANSI/TIA 568.2-D LOTE: EX19D M"
+    },
+    "47": {
+        "message_name_string": "CABO CAT.6 SIL",
+        "message_name_bytes": "4341424f204341542e362053494c0000",
+        "content": "M EX17D CABO SIL LAN U/UTP CMX CAT.6 23AWG X 4P ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1 Anatel 09746-22-14913 MPT:"
+    },
+    "48": {
+        "message_name_string": "U/UTP CAT.5E SI",
+        "message_name_bytes": "552f555450204341542e354520534900",
+        "content": "CABO SIL LAN U/UTP CMX CAT.5E 24AWG X 4P ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1 Anatel 09729-22-14913 MPT LOTE: EX17D M"
+    },
+    "49": {
+        "message_name_string": "CABO CAT.6 COND",
+        "message_name_bytes": "4341424f204341542e3620434f4e4400",
+        "content": "LANDUTTI Anatel 09746-22-14913 CABO U/UTP CMX CAT.6 23AWG X 4P ANSI/TIA-568-C.2 & ISO/IEC 11801 ED.2 & IEC 60332-1 MPT LOTE: EX17D M"
+    },
+    "50": {
+        "message_name_string": "CABO CAT.6 F/UT",
+        "message_name_bytes": "4341424f204341542e3620462f555400",
+        "content": "ANATEL 09747-22-14913 MPT CABO F/UTP LSZH CAT.6 23AWG X 4P ANSI/TIA 568.2-D LOTE: EX16D                     M"
+    },
+    "51": {
+        "message_name_string": "CABO ASU 80S 06",
+        "message_name_bytes": "4341424f204153552038305320303600",
+        "content": ": 7158/20/02 ANATEL 07457-17-03221 MPT CABO OPTICO CFOA - SM - ASU 80 - S - 06FO NR LOTE M"
+    },
+    "52": {
+        "message_name_string": "HOKINET DROP CO",
+        "message_name_bytes": "484f4b494e45542044524f5020434f00",
+        "content": "ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  HOKINET LOTE: DC7D 23 M"
+    },
+    "53": {
+        "message_name_string": "VIVO 4FO 1000MT",
+        "message_name_bytes": "5649564f2034464f20313030304d5400",
+        "content": "ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-04-AR-LSZH  VIVO  LOTE: DC7D 23 M T1 118 28 ABR 2023"
+    },
+    "54": {
+        "message_name_string": "DROP DVS 1000M ",
+        "message_name_bytes": "44524f502044565320313030304d2000",
+        "content": "M 23     ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  LOTE: DC7D"
+    },
+    "55": {
+        "message_name_string": "VIVO PRETO 500 ",
+        "message_name_bytes": "5649564f20505245544f203530302000",
+        "content": "M 23 ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-AR-LSZH  VIVO  LOTE: DC7D"
+    },
+    "56": {
+        "message_name_string": "POX NET CO DROP",
+        "message_name_bytes": "504f58204e455420434f2044524f5000",
+        "content": "ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  POX NET  LOTE: DC7D 23 M"
+    },
+    "57": {
+        "message_name_string": "DVS2000 MTS",
+        "message_name_bytes": "44565332303030204d54530000000000",
+        "content": "ANATEL 20601-22-15332  MPT  OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH LOTE: DC7D 23 M"
+    },
+    "58": {
+        "message_name_string": "DVS 4FO 1000 MT",
+        "message_name_bytes": "4456532034464f2031303030204d5400",
+        "content": "ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-04-AR-LSZH LOTE: DC7D 23 M"
+    },
+    "59": {
+        "message_name_string": "AMAZONET TELECO",
+        "message_name_bytes": "414d415a4f4e45542054454c45434f00",
+        "content": "M 23 ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  AMAZONET TELECOM  LOTE: DC7D"
+    },
+    "60": {
+        "message_name_string": "UTOPIANET1000 M",
+        "message_name_bytes": "55544f5049414e455431303030204d00",
+        "content": "M 23 ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  UTOPIANET  LOTE: DC7D"
+    },
+    "61": {
+        "message_name_string": "AR 500 M DVS",
+        "message_name_bytes": "415220353030204d2044565300000000",
+        "content": "M 23 DC7D ANATEL 20601-22-15332 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-AR-LSZH LOTE:"
+    },
+    "62": {
+        "message_name_string": "ALGAR 500 MTS",
+        "message_name_bytes": "414c47415220353030204d5453000000",
+        "content": "M 23 ANATEL 20601-22-15332  MPT  CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  ALGAR  LOTE: DC7D"
+    },
+    "63": {
+        "message_name_string": "DVS 500 AR",
+        "message_name_bytes": "44565320353030204152000000000000",
+        "content": "23 ANATEL 20601-22-15332 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-AR-LSZH LOTE:DC3D M"
+    },
+    "64": {
+        "message_name_string": "MR JOMAR TELECO",
+        "message_name_bytes": "4d52204a4f4d41522054454c45434f00",
+        "content": "M 23 DC3D ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH MR JOMAR TELECOM LOTE:"
+    },
+    "65": {
+        "message_name_string": "DROP VIVO 4FO ",
+        "message_name_bytes": "44524f50205649564f2034464f200000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-04-AR-LSZH VIVO LOTE: DC8D M"
+    },
+    "66": {
+        "message_name_string": "CO 500 MTS",
+        "message_name_bytes": "434f20353030204d5453000000000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B -CM-01-CO-LSZH LOTE:     M DC8D"
+    },
+    "67": {
+        "message_name_string": " FIBRASIL 4F DC",
+        "message_name_bytes": "20464942524153494c20344620444300",
+        "content": ": M ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-04-AR-LSZH FIBRASIL LOTE DC1D"
+    },
+    "68": {
+        "message_name_string": "FIBRASIL 4FO",
+        "message_name_bytes": "464942524153494c2034464f00000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-04-AR-LSZH FIBRASIL LOTE   DC2D M"
+    },
+    "69": {
+        "message_name_string": "AMO K2 1000",
+        "message_name_bytes": "414d4f204b3220313030300000000000",
+        "content": "M ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-C0-LSZH AMO K2 LOTE:DC1D"
+    },
+    "70": {
+        "message_name_string": "TESTE FERRAZ",
+        "message_name_bytes": "54455354452046455252415a00000000",
+        "content": "M MPT CABO OPTICO DROP CFOAC-BLI A1 -CM-04-AR-LSZH LOTE:DC2D"
+    },
+    "71": {
+        "message_name_string": " DROP DVS 500M ",
+        "message_name_bytes": "2044524f5020445653203530304d2000",
+        "content": "DC1D M     ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B -CM-01-CO-LSZH LOTE:"
+    },
+    "72": {
+        "message_name_string": " DVS 1000 CO DC",
+        "message_name_bytes": "20445653203130303020434f20444300",
+        "content": "M DC1 ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE:     D"
+    },
+    "73": {
+        "message_name_string": "1000 MTS   CO",
+        "message_name_bytes": "31303030204d5453202020434f000000",
+        "content": "M DC1 ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE:     D"
+    },
+    "74": {
+        "message_name_string": "DROP 500M CO",
+        "message_name_bytes": "44524f50203530304d20434f00000000",
+        "content": "M DC2 ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE:     D"
+    },
+    "75": {
+        "message_name_string": "MENSAGEM  PADRA",
+        "message_name_bytes": "4d454e534147454d2020504144524100",
+        "content": "11702/19/01 ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR-LSZH LOTE:  M"
+    },
+    "76": {
+        "message_name_string": "AS 80 24 FO VIV",
+        "message_name_bytes": "415320383020323420464f2056495600",
+        "content": "M CO1D ANATEL 04195-19-03221 MPT CABO OPTICO CFOA-SM-AS80-S 24FO NR KP TS VIVO LOTE:"
+    },
+    "77": {
+        "message_name_string": "CAT.5E CMX AZ",
+        "message_name_bytes": "4341542e354520434d5820415a000000",
+        "content": "M EX12D ANATEL 02212-07-03221 MPT CABO U/UTP CMX CAT.5e 4P X 24AWG LOTE:"
+    },
+    "78": {
+        "message_name_string": "ELNET   TELECOM",
+        "message_name_bytes": "454c4e455420202054454c45434f4d00",
+        "content": "ANATEL03183 17 03221 MPT CABO DROP OPTICO CFOAC BLI A/B CM 1FO CO LSZH ELNET TELECOM LOTE: DC4D M"
+    },
+    "79": {
+        "message_name_string": "ESPACO LINK  10",
+        "message_name_bytes": "45535041434f204c494e4b2020313000",
+        "content": "ANATEL 03183-17-03221 MPT CABO 0PTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH ESPACO LINK        LOTE: DC1D M"
+    },
+    "80": {
+        "message_name_string": "PLANET INTERNET",
+        "message_name_bytes": "504c414e455420494e5445524e455400",
+        "content": "M LOTE:DC1D    PLANET INTERNET -LSZH -BLI A/B-CM-01-CO  DROP CFOAC  MPT CABO OPTICO ANATEL 03183-17-03221"
+    },
+    "81": {
+        "message_name_string": "CONECT     TELE",
+        "message_name_bytes": "434f4e454354202020202054454c4500",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR-LSZH CONECT TELECOM LOTE: DC1 D M"
+    },
+    "82": {
+        "message_name_string": "CONECT TELECOM",
+        "message_name_bytes": "434f4e4543542054454c45434f4d0000",
+        "content": "M DC1D : LOTE CONECT TELECOM ANATEL 03183-17-03221  MPT CABO OPTICO   DROP CFOAC-BLI A/B -CM-01-AR -LSZH"
+    },
+    "83": {
+        "message_name_string": "AMPHENOL",
+        "message_name_bytes": "414d5048454e4f4c0000000000000000",
+        "content": "AMPHENOL TFC VIVO CFOAC-BLI-A/B-CM-04-AR-LSZH LOTE: DC1D ANATEL 07875-18-00265 M"
+    },
+    "84": {
+        "message_name_string": "FIX FIBRA NOVO",
+        "message_name_bytes": "464958204649425241204e4f564f0000",
+        "content": "M DC1D ANATEL 03183 17 03221 MPT CABO DROP OPTICO CFOAC BLI A/B CM 1 FO CO LSZH FIX FIBRA LOTE:"
+    },
+    "85": {
+        "message_name_string": "FIX FIBRA",
+        "message_name_bytes": "46495820464942524100000000000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH FIX FIBRA LOTE: DC1D M"
+    },
+    "86": {
+        "message_name_string": "DIO TELECM",
+        "message_name_bytes": "44494f2054454c45434d000000000000",
+        "content": "M ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-CO-LSZH  DIO TELECOM  LOTE: DC1D"
+    },
+    "87": {
+        "message_name_string": "MGN FIBRA",
+        "message_name_bytes": "4d474e20464942524100000000000000",
+        "content": "ANATEL  03183-17-03221  MPT CABO OPTICO  DROP CFOAC-BLI A/B -CM-01-CO -LSZH  MGN FIBRA  DC1 D   M"
+    },
+    "88": {
+        "message_name_string": "FASTNET TELECOM",
+        "message_name_bytes": "464153544e45542054454c45434f4d00",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTCO DROP CFOAC-BLI A/B -CM-01-CO- LSZH    FASTNET TELECOM  LOTE:DC1D M"
+    },
+    "89": {
+        "message_name_string": "DROP CIRCULAR -",
+        "message_name_bytes": "44524f502043495243554c4152202d00",
+        "content": "M ANATEL 08662-19-03221 MPT CABO OPTICO CFOAC-BLI A/B-AS-UT-12FO NR DROP CIRCULAR AS80 - G657A2  VIVO  LOTE: 7168/20/01"
+    },
+    "90": {
+        "message_name_string": "80 - 12  FO ACE",
+        "message_name_bytes": "3830202d2031322020464f2041434500",
+        "content": "M 01 7157/20/ ANATEL 07457-17-03221 MPT CABO OPTICO CFOA - SM - ASU 80 - S - 12 FO NR  Acer Telecomunicacoes Ltda  LOTE:"
+    },
+    "91": {
+        "message_name_string": "ASU 80-S 04FO -",
+        "message_name_bytes": "4153552038302d53203034464f202d00",
+        "content": "01 7158/20/ ANATEL 07457-17-03221 MPT CABO OPTICO CFOA - SM - ASU 80 - S - 04 FO NR   LOTE: M"
+    },
+    "92": {
+        "message_name_string": "120 12 F0 DVS",
+        "message_name_bytes": "31323020313220463020445653000000",
+        "content": "ANATEL 07457-17-03221 MPT CABO OPTICO CFOA - SM - ASU 120 - S - 12 FO NR LOTE: 7154/20/ 02 M"
+    },
+    "93": {
+        "message_name_string": "120 - 12 - FO  ",
+        "message_name_bytes": "313230202d203132202d20464f202000",
+        "content": "M 03 7154/20/ ANATEL 07457 - 17 - 03221 MPT CABO OPTICO CFOA - SM - ASU 120 - S - 12 FO NR RAPEEDO LTDA LOTE:"
+    },
+    "94": {
+        "message_name_string": "ASU 80-S 12FO -",
+        "message_name_bytes": "4153552038302d53203132464f202d00",
+        "content": "ANATEL 07457-17-03221 MPT CABO OPTICO CFOA - SM - ASU 80 - S - 12 FO NR   LOTE: 7157/20/ 02 M"
+    },
+    "95": {
+        "message_name_string": "PADRA0  (AR)",
+        "message_name_bytes": "50414452413020202841522900000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-AR- LSZH LOTE:        M 2828/20/01"
+    },
+    "96": {
+        "message_name_string": "DROP DVS AR",
+        "message_name_bytes": "44524f50204456532041520000000000",
+        "content": "DC1D ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-AR-LSZH LOTE:    M"
+    },
+    "97": {
+        "message_name_string": "1000 MTS  CO",
+        "message_name_bytes": "31303030204d54532020434f00000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE:  DC1 D M"
+    },
+    "98": {
+        "message_name_string": "CABO DROP REDFO",
+        "message_name_bytes": "004341424f2044524f5020524544464f",
+        "content": "M 2020 JUL   ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-C0-LSZH REDFOX DC1 D T3"
+    },
+    "99": {
+        "message_name_string": "AR PADRAO  1000",
+        "message_name_bytes": "41522050414452414f20203130303000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR-LSZH LOTE: DC1D M"
+    },
+    "100": {
+        "message_name_string": "CABODROP FIG 8 ",
+        "message_name_bytes": "4341424f44524f502046494720382000",
+        "content": "M ANATEL 05396-20-03221 MPT CABO OPTICO DROP CFOAC - SM - AS - UT 12FO COG FIG.8 LOTE: 5202/20/ 01"
+    },
+    "101": {
+        "message_name_string": "FIO FE AA 80 PE",
+        "message_name_bytes": "46494f20464520414120383020504500",
+        "content": "MPT FIO  FE - AA - 80 - PEAD LOTE: 6046/20 SEMANA 23 2 TRIM  2020 ANATEL 01097-09-03221 M"
+    },
+    "102": {
+        "message_name_string": "52-19116-DC-VIV",
+        "message_name_bytes": "35322d31393131362d44432d56495600",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP 24AWG/4P CAT.5E AS - DUPLA CAPA VIVO LOTE: 3982/19/ M 01 06/2019"
+    },
+    "103": {
+        "message_name_string": "52-19367-REDFOX",
+        "message_name_bytes": "35322d31393336372d524544464f5800",
+        "content": "T1 ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-C0-LSZH  REDFOX  LOTE :DC1 D M"
+    },
+    "104": {
+        "message_name_string": "ESPACO LINK TEL",
+        "message_name_bytes": "45535041434f204c494e4b2054454c00",
+        "content": "ANATEL 03183-17-03221 MPT CABO 0PTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH ESPACO LINK TELECOM LOTE:  DC1D M"
+    },
+    "105": {
+        "message_name_string": "56-20015-900 DR",
+        "message_name_bytes": "35362d32303031352d39303020445200",
+        "content": "T1 M     ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE: DC1 D143"
+    },
+    "106": {
+        "message_name_string": "TESTE AR 02",
+        "message_name_bytes": "54455354452041522030320000000000",
+        "content": "M T1 DC1D ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-02-AR-LSZH LOTE:"
+    },
+    "107": {
+        "message_name_string": "TESTE CO 01",
+        "message_name_bytes": "544553544520434f2030310000000000",
+        "content": "M      MAI/2020      LOTE: DC1D125T1 -LSZH -CO ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM- 04"
+    },
+    "108": {
+        "message_name_string": "56-20015-900 DR",
+        "message_name_bytes": "35362d32303031352d39303020445200",
+        "content": "2889/20/         ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH LOTE: M 01"
+    },
+    "109": {
+        "message_name_string": "SENDNET",
+        "message_name_bytes": "53454e444e4554000000000000000000",
+        "content": "M ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B -CM-01-CO-LSZH SENDNET LOTE: 2889/20/ 02"
+    },
+    "110": {
+        "message_name_string": "MILHA TELECOM",
+        "message_name_bytes": "4d494c48412054454c45434f4d000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR- LSZH MILHA TELECOM LOTE: M 1367/20/02"
+    },
+    "111": {
+        "message_name_string": "JR TELECOM",
+        "message_name_bytes": "4a522054454c45434f4d000000000000",
+        "content": "M ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B-CM-01-C0-LSZH  JR TELECOM  87-3866-3150  LOTE: 10102/19/ 01"
+    },
+    "112": {
+        "message_name_string": "MEGAVIA",
+        "message_name_bytes": "4d454741564941000000000000000000",
+        "content": "MEGAVIA LOTE:    ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-C0-LSZH M 10555/19/ 01"
+    },
+    "113": {
+        "message_name_string": "52-19015-900-DC",
+        "message_name_bytes": "35322d31393031352d3930302d444300",
+        "content": "MPT CABO HIBRIDO CFTV 50X4P+PORTANTE METALICO LOTE:1128/19/01 M"
+    },
+    "114": {
+        "message_name_string": "52-19100-500-DV",
+        "message_name_bytes": "35322d31393130302d3530302d445600",
+        "content": "02 7005/19/ ANATEL 03452-12-03221 MPT CABO F/UTP CM CAT.5E 24AWGX4P LOTE: M"
+    },
+    "115": {
+        "message_name_string": "CABO DROP K2 TE",
+        "message_name_bytes": "4341424f2044524f50204b3220544500",
+        "content": "M     ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-CO-LSZH K2 TELECOM LOTE: 9059/19/ 01"
+    },
+    "116": {
+        "message_name_string": "OPTILINK",
+        "message_name_bytes": "4f5054494c494e4b0000000000000000",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR-LSZH OPTILINK LOTE:    M 6887/19/01"
+    },
+    "117": {
+        "message_name_string": "DROP OPTILINK",
+        "message_name_bytes": "44524f50204f5054494c494e4b000000",
+        "content": "M       ANATEL 03183-17-03221 MPT CABO OPTICO DROP CFOAC-BLI A/B - CM-01-AR-LSZH OPTILINK LOTE: 7902/19/ 01"
+    },
+    "118": {
+        "message_name_string": "TESTE  ENGENHAR",
+        "message_name_bytes": "54455354452020454e47454e48415200",
+        "content": "ANATEL 03183-17-03221 MPT CABO OPTICO DR0P CFOAC-BLI A/B-CM-01-CO-LSZH   LOTE: 6478/19/ 01 M"
+    },
+    "119": {
+        "message_name_string": "TELECOM",
+        "message_name_bytes": "54454c45434f4d000000000000000000",
+        "content": "2019 02 0036/19/ ANATEL 03691-11-03221 MPT CABO U/UTP CAT. 5e 4P X 24AWG DUPLA CAPA DANIEL TELECOM  LOTE: M"
+    },
+    "120": {
+        "message_name_string": "52-19654-DANIEL",
+        "message_name_bytes": "35322d31393635342d44414e49454c00",
+        "content": "M ANATEL 03691-11-03221 MPT CABO U/UTP CAT. 5e 4P X 24AWG DUPLA CAPA DANIEL TELECOM  LOTE: 0036/19/ 02 2019"
+    },
+    "121": {
+        "message_name_string": "503003062400042",
+        "message_name_bytes": "35303330303330363234303030343200",
+        "content": "M MPT CABO HIBRIDO CFTV 50 X 4P + PORTANTE MET ALICO LOTE: 7185/19/ 01"
+    },
+    "122": {
+        "message_name_string": "503002102400042",
+        "message_name_bytes": "35303330303231303234303030343200",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP CAT 5e 4P X 24 AWG AS DUPLA CAPA LOTE: M 7112/19/ 01"
+    },
+    "123": {
+        "message_name_string": "503003085000042",
+        "message_name_bytes": "35303330303330383530303030343200",
+        "content": "ANATEL 2572-15-3221 MPT HIBRIDO CABO F/UTP CAT 5E 24AWG X 4P + 1PX0,75MM2 LOTE: 7164/19/01 M"
+    },
+    "124": {
+        "message_name_string": "52-19015-900-DV",
+        "message_name_bytes": "35322d31393031352d3930302d445600",
+        "content": "7052/19/01 M ANATEL 03691-11-03221 MPT CABO U/UTP CAT. 5e 4P X 24AWG DUPLA CAPA LOTE:"
+    },
+    "125": {
+        "message_name_string": "52-19100-900 F/",
+        "message_name_bytes": "35322d31393130302d39303020462f00",
+        "content": "7029/19/ M ANATEL 03448-12-03221 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA LOTE: 01"
+    },
+    "126": {
+        "message_name_string": "503003032400042",
+        "message_name_bytes": "35303330303330333234303030343200",
+        "content": "01 ANATEL 03448-12-03221 MPT CABO F/UTP CAT.5E 24AWG X 4P DUPLA CAPA LOTE: M 7040/19/"
+    },
+    "127": {
+        "message_name_string": "503003022400042",
+        "message_name_bytes": "35303330303330323234303030343200",
+        "content": "M 7019/19/ ANATEL 03447-13-03221 MPT CABO F/UTP CM 24AWGX4P CAT.5E INT/EXT LOTE: 03"
+    },
+    "128": {
+        "message_name_string": "52-19558-900-ET",
+        "message_name_bytes": "35322d31393535382d3930302d455400",
+        "content": "3980/19/ 02 M ANATEL 03691-11-03221 MPT CABO U/UTP CAT 5e 4P X 24 AWG AS DUPLA CAPA ETERNALNET LOTE:"
+    },
+    "129": {
+        "message_name_string": "52-19027 -AS-DC",
+        "message_name_bytes": "35322d3139303237202d41532d444300",
+        "content": "M ANATEL 03691-11-03221 MPT CABO U/UTP CAT 5e 4P X 24 AWG AS DUPLA CAPA LOTE:"
+    },
+    "130": {
+        "message_name_string": "52-19451-HIBRID",
+        "message_name_bytes": "35322d31393435312d48494252494400",
+        "content": "3694/19/01 M MPT CABO HIBRIDO CFTV 50X4P+PORTANTE METALICO LOTE:"
+    },
+    "131": {
+        "message_name_string": "5219280-HIBRID0",
+        "message_name_bytes": "353231393238302d4849425249443000",
+        "content": "01 M ANATEL 01821-14-03221 MPT HIBRIDO CABO F/UTP CAT 5E 24 AWG X 4P + 1P X 0,75MM2 + AS LOTE: 3664/19/"
+    },
+    "132": {
+        "message_name_string": "52-19351-900",
+        "message_name_bytes": "35322d31393335312d39303000000000",
+        "content": "MPT CABO HIBRIDO CFTV 50X4P+PORTANTE METALICO LOTE:1128/19/01 M"
+    },
+    "133": {
+        "message_name_string": "52-19217-HIBRID",
+        "message_name_bytes": "35322d31393231372d48494252494400",
+        "content": "MPT CABO HIBRIDO CFTV 50X4P+PORTANTE METALICO LOTE:1128/19/01 M"
+    },
+    "134": {
+        "message_name_string": "52-19443-900-DC",
+        "message_name_bytes": "35322d31393434332d3930302d444300",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5e 4P X 24AWG DUPLA CAPA LOTE: 12117/18/ 01 2018 M"
+    },
+    "135": {
+        "message_name_string": "52 -19503-900 ",
+        "message_name_bytes": "3532202d31393530332d393030200000",
+        "content": "ANATEL 03691-11-03221 MTP CABO U/UTP CAT 5E 4P X 24 AWG AS DUPLA CAPA HDN LOTE:3022/19/01 M"
+    },
+    "136": {
+        "message_name_string": "52-19698-900",
+        "message_name_bytes": "35322d31393639382d39303000000000",
+        "content": "M ANATEL 03691-11-03221 MPT CABO U/UTP CAT. 5e 4P X 24AWG DUPLA CAPA FASTNET LOTE: 1859/19/ 02"
+    },
+    "137": {
+        "message_name_string": "52-19503-900",
+        "message_name_bytes": "35322d31393530332d39303000000000",
+        "content": "2019 ANATEL 03691-11-03221 MTP CABO U/UTP CAT 5E 4P X 24 AWG AS DUPLA CAPA HDN LOTE:0178/19/01 M"
+    },
+    "138": {
+        "message_name_string": "52-19492-AS-DC-",
+        "message_name_bytes": "35322d31393439322d41532d44432d00",
+        "content": "M   2019 03 0531/19/ ANATEL 03691-11-03221 MPT CABO U/UTP CAT 5e 4P X 24 AWG AS DUPLA CAPA C.SOLUCOES 19.614.930/0001-63 LOTE:"
+    },
+    "139": {
+        "message_name_string": "52-19367-900",
+        "message_name_bytes": "35322d31393336372d39303000000000",
+        "content": "ANATEL 03691-11-03221 MPT CABOU/UTP CAT 5e 4P X 24AWG AS DUPLA CAPA REDFOX TELECOM LOTE: 0531/19/ 02 2019 M"
+    },
+    "140": {
+        "message_name_string": "52-19631-900",
+        "message_name_bytes": "35322d31393633312d39303000000000",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5e 4P X 24AWG DUPLA CAPA NT-TPL LOTE: 0145/19/02 2019 M"
+    },
+    "141": {
+        "message_name_string": "52-19701-900-PR",
+        "message_name_bytes": "35322d31393730312d3930302d505200",
+        "content": "0098/19/ ANATEL 03691-11-03221 PROVIDER CABO U/UTP CAT 5e 4P X 24 AWG AS DUPLA CAPA LOTE: M 2019 01"
+    },
+    "142": {
+        "message_name_string": "52-19614-900-FL",
+        "message_name_bytes": "35322d31393631342d3930302d464c00",
+        "content": "02 12331/18/ M 2018 MPT HIBRIDO CFTV FLAT 0,75 MM2 + 24 AWG X 4P + 0,75MM2 LOTE:"
+    },
+    "143": {
+        "message_name_string": "52-197000-900 D",
+        "message_name_bytes": "35322d3139373030302d393030204400",
+        "content": "ANATEL 03691-11-03221 MPT CABO U/UTP CAT.5e  4P X 24AWG DUPLA CAPA C0NNECT (85)3031-5000 LOTE: 12117/18/ 02 2018 M"
+    }
+}
